@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Raktdoot Blood Donation App</string>
+
+    <string-array name="division_list">
+        <item>Raipur</item>
+        <item>Durg</item>
+        <item>Bhilai</item>
+        <item>Rajnandgaon</item>
+        <item>Korba</item>
+        <item>Bilaspur</item>
+        <item>Ambikapur</item>
+        <item>Bastar</item>
+
+    </string-array>
+
+    <string-array name="blood_group__list">
+        <item>A+ Blood</item>
+        <item>A- Blood</item>
+        <item>B+ Blood</item>
+        <item>B- Blood</item>
+        <item>AB+ Blood</item>
+        <item>AB- Blood</item>
+        <item>O+ Blood</item>
+        <item>O- Blood</item>
+
+    </string-array>
+</resources>
